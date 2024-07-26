@@ -1,0 +1,1 @@
+select * from `cidade` where `ibge` = '2927408';

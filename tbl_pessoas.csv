@@ -1,0 +1,4 @@
+"id";"nome";"profissao";"rg";"cpf";"endereco";"data_nascimento";"email";"whatsapp";"senha";"estado_civil";"genero";"naturalidade";"nacionalidade"
+1;"João Maria";"";"12345678";"12345678910";"";"20/02/1986";"user@dominio.com.br";"0011112222";"12345";"";"cisgenero";"Londrina PR";"Brasileira"
+2;"Thiago Jose";"";"23456789";"23456789101";"";"10/01/1988";"user2@dominio.com.br";"1122223333";"23456";"";"cisgenero";"Bauru SP";"Brasileira"
+4;"Ariel Lara";"";"45678910";"45678910111";"";"30/03/1990";"user4@dominio.com.br";"334444555";"45678";"";"transgenero";"Cambe PR";"Brasileira"

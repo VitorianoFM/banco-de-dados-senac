@@ -1,0 +1,1 @@
+update `cidade` set `ibge` = '2927408' where `id` = 616;

@@ -1,0 +1,1 @@
+drop table `db_senac`.`tbl_teste240725`;
