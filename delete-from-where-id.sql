@@ -1,1 +1,1 @@
-delete from `tbl_pessoas`where `id`= 3;
+delete from `tbl_pessoas` where `id` = 3;
